@@ -10,7 +10,7 @@ R_VERSION=4.3.1
 
 必要なスクリプトやデータがあれば、vis-toolsフォルダに追加
 ### **2.dockerfileをbuildする**  
-```$ docker build -t amori/r-base:v0.0```  
+```$ docker build -t amori/r-base:v0.0 .```  
 
 確かめるとき
 ```$ docker images```
